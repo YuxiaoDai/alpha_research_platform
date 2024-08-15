@@ -1,0 +1,46 @@
+item,description,source data,source path,saved path
+open,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+open_adj,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+accvolume,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+accvolume_adj,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+high,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+high_adj,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+low,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+low_adj,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+close,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+close_adj,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+accturover,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+accturover_adj,desciption,1min_pv,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\qishi_1min,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+vol_5d,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Score
+vol_5d_hs300,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Portfolio
+vol_5d_zz500,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Portfolio
+vol_5d_zz9999,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Portfolio
+iamp,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Score
+iamp_zz9999,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Portfolio
+iamp_zz1000,desciption,,,C:\Users\daiyu\OneDrive\github-upload\data\alpha\Alpha_Portfolio
+cum_adjf,desciption,adj_fct,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\adj_fct,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+up_limit,desciption,lmt,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\lmt,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+down_limit,desciption,lmt,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\lmt,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+neg_mkt_val,desciption,mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+mkt_val,desciption,mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+neg_shares,desciption,mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+shares,desciption,mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\mkt_val,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+sw1,desciption,sw,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\sw,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+sw2,desciption,sw,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\sw,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+sw3,desciption,sw,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\sw,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+hs300,desciption,hs300,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\univ\hs300,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+zz500,desciption,zz500,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\univ\zz500,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+zz800,desciption,zz800,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\univ\zz800,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+zz1000,desciption,zz1000,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\univ\zz1000,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+name,desciption,zz9999,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\univ\zz9999,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+zz9999,desciption,zz9999,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\univ\zz9999,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\stock_data_daily
+name_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+pre_close_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+open_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+high_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+low_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+close_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+amt_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+vol_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+chg_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data
+chg_pct_idx,desciption,idx,C:\Users\daiyu\OneDrive\github-upload\data\Raw data\other\idx,C:\Users\daiyu\OneDrive\github-upload\data\Processed data\index_data

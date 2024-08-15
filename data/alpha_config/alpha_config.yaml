@@ -1,0 +1,27 @@
+# config
+
+iamp:
+  start: '2018-01-02'
+  end: '2018-12-28'
+  input_data_items: ['close_adj', 'low_adj', 'high_adj']
+  universe_list: ['zz9999', 'zz1000']
+  leverage: 'L1S1' # L1S1 (long 1 short 1), L1 (long-only)
+  weight_scheme: 'value_weight' # equal_weight, mktcap_weight, value_weight
+  demean: TRUE
+  rank: TRUE
+  # beta_neutral
+  # industry_neutral 
+  # mktcap_neutral
+
+vol_5d: 
+  start: '2018-01-02'
+  end: '2018-12-28'
+  input_data_items: ['close_adj']
+  universe_list: ['hs300', 'zz500', 'zz9999']
+  leverage: 'L1S1' # L1S1 (long 1 short 1), L1 (long-only)
+  weight_scheme: 'equal_weight' # equal_weight, mktcap_weight, score_weight
+  demean: TRUE
+  rank: TRUE
+  # beta_neutral
+  # industry_neutral 
+  # mktcap_neutral
